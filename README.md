@@ -3,7 +3,7 @@ Simple bash script that does a few things:
 - Sets the image as wallpaper using gsettings (gnome)
 - copies the image and appends a date stamp to make sure the image doesn't get lost the next time the script runs
 
-You can change the variables to adjust the "random" search 
+You can change the variables to adjust the "random" search:
 -categories=categoryA,CategoryB find more categories at unsplash.com
 -resolution=desired x resolution
 -imagelocation=<insert directory that you want to use for the image>
