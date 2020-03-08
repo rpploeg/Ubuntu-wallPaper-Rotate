@@ -4,7 +4,7 @@ Simple bash script that does a few things:
 - copies the image and appends a date stamp to make sure the image doesn't get lost the next time the script runs
 
 You can change the variables in the script to adjust the "random" search a little bit:
-- categories=categoryA,CategoryB find more categories at unsplash.com
+- categories=nature,wallpaper (find more categories at https://unsplash.com)
 - resolution=desired x resolution
 - imagelocation=<insert directory that you want to use for the image>
 - wallpaper=<insert file name of the wallpaper>
