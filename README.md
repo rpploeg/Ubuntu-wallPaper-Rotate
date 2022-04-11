@@ -11,4 +11,4 @@ You can change the variables in the script to adjust the "random" search a littl
 
 Personally I created a cron job that runs every hour so my wallpaper get's rotated every once in a while.
 
-Only tested with Ubuntu 18.04 and 20.04 since I expect to be the only user :)
+Only tested with Ubuntu (GNOME) 18.04 and 20.04 since I expect to be the only user :)
